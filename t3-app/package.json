@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@baselime/node-opentelemetry": "^0.2.14",
-    "@clerk/nextjs": "^4.25.5",
+    "@clerk/nextjs": "^4.29.3",
     "@opentelemetry/api": "^1.7.0",
     "@planetscale/database": "^1.11.0",
     "@prisma/adapter-planetscale": "^5.4.3",
